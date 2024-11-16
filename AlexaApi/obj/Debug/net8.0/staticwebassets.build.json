@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5bOI1SWafQs2riM3M5J/06rQoCw/T1W2RyfNcMigIUY=",
+  "Source": "AlexaApi",
+  "BasePath": "_content/AlexaApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

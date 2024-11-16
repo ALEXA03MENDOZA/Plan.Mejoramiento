@@ -1,0 +1,6 @@
+@AlexaApi_HostAddress = http://localhost:5171
+
+GET {{AlexaApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
